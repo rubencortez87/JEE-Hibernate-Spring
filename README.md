@@ -20,4 +20,4 @@ Docker
 Ruben Cortez
 
 #### Gratitude
-Thanks platzi for de course and accenture for the opportunity
+Thanks platzi and the teachers for the course and accenture for the opportunity
